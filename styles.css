@@ -1,0 +1,16 @@
+body{
+    background-color: rgb(43, 43, 43);
+    color: white;
+    display: flex;
+    justify-content: center;
+}
+
+h1, .content{
+    text-align: center;
+}
+
+.board{
+    width: 500px;
+    height: 500px;
+    display: grid;
+}
