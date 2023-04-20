@@ -1,6 +1,6 @@
 # etch-a-sketch-js
 
-Demo here: 
+Demo here: https://operator-19.github.io/etch-a-sketch-js/
 
 This code implements a simple interactive grid of squares that can be colored by hovering over them with the mouse. The techniques used in this code include:
 
